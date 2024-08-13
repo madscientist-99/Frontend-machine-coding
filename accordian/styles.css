@@ -1,0 +1,18 @@
+.accordian {
+    border: 1px solid #ccc;
+}
+
+.accordian-item {
+    border-bottom: 1px solid #ccc;
+}
+
+.accordian-header {
+    background-color: #f5f5f5;
+    padding: 10px;
+    cursor: pointer;
+}
+
+.accordian-content {
+    padding: 10px;
+    display: none;
+}
